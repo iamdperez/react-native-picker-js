@@ -132,3 +132,4 @@ if 0.24 < react-native `npm install react-native-picker --save`
 	};
 	selectedValue = ['a', 'a1', 1];
 ```
+test 
