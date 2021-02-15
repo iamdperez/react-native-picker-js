@@ -19,7 +19,7 @@
     "email": "wenliang.web@gmail.com"
   },
   "dependencies": {
-    "react-native-picker-android": "git+ssh://git@github.com/iamdperez/react-native-picker-android-js.git"
+    "react-native-picker-android": "git+https://github.com/iamdperez/react-native-picker-android-js.git"
   },
   "engines": {
     "node": ">=4"
